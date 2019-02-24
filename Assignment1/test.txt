@@ -1,0 +1,16 @@
+__label__pos I love this sandwich.
+__label__neg I do not like this restaurant
+__label__pos this is an amazing place!
+__label__neg I am tired of this stuff.
+__label__pos I feel very good about these beers.
+__label__neg I can't deal with this
+__label__pos this is my best work.
+__label__neg he is my sworn enemy!
+__label__pos what an awesome view
+__label__neg my boss is horrible.
+__label__pos the beer was good.
+__label__neg I do not enjoy my job
+__label__pos I feel amazing!
+__label__neg I ain't feelin dandy today.
+__label__pos Gary is a good friend of mine.
+__label__neg I can't believe I'm doing this.
