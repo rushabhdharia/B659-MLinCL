@@ -1,0 +1,6 @@
+Extending the approaches
+
+1. We could clean the dataset by converting all letters to lower case and remove stopwords and irrelevant whitespaces. 
+2. Tokenize the words in a sentence and use word embeddings like glove 
+3. We could use count vectors or TF-IDF as features
+4. In RNN we could use Bi-directional LSTM 
