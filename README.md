@@ -1,5 +1,4 @@
-# B659-TopicsinAI
-Assignments of the course CSCI-B 659 Topics in Artificial Intelligence: Machine Learning, Neural Networks, Deep Learning for CL/NLP
+# Assignments of the course CSCI-B 659 Topics in Artificial Intelligence:  Applying Machine Learning Techniques in Computational Linguistics
 
 
 Assignment 1:   
